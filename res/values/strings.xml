@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">Symbols</string>
+<string name="plot_name">Plot</string>
+<string name="menu_plot">Plot</string>
+<string name="menu_interrupt">Interrupt</string>
+
+<string name="menu_quit">Exit</string>
+<string name="menu_mode">Mode</string>
+<string name="menu_clear">Clear</string>
+<string name="octave">Octave</string>
+<string name="maxima">Maxima</string>
+<string name="interrupt">Interrupt</string>
+<string name="file_name">File</string>
+
+<string name="delete">Delete</string>
+<string name="pref_name">Preferences</string>
+
+</resources>

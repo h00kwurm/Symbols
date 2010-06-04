@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single" android:id="@+id/display_group" android:enabled="true" android:visible="true"><item android:title="@string/menu_clear" android:id="@+id/menu_clear" android:checkable="true" android:checked="true"></item><item android:title="Point" android:id="@+id/menu_point" android:checkable="true" android:checked="false"></item><item android:title="Line" android:id="@+id/menu_line" android:checkable="true" android:checked="false"></item></group>
+
+
+
+</menu>

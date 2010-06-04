@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+			android:title="Preferences">
+
+<CheckBoxPreference android:title="Startup mode" android:summaryOn="\t\t\t\tmaxima mode" android:summaryOff="\t\t\t\toctave mode" android:key="mode"></CheckBoxPreference>
+</PreferenceScreen>

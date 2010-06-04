@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<array  name="stdcommands">
+		<item>asin(</item>
+		<item>acos(</item>
+		<item>atan(</item>
+		<item>sqrt(</item>
+		<item>exp(</item>
+		<item>log(</item>
+		<item>sin(</item>
+		<item>cos(</item>
+		<item>tan(</item>
+		<item>sign(</item>
+		<item>rat(</item>
+		<item>trigrat(</item>
+		<item>float(</item>
+		<item>det(</item>
+		<item>hilb(</item>
+		<item>gammaln(</item>
+		<item>primes(</item>
+		<item>prod(</item>
+		<item>format</item>
+		<item>long</item>
+		<item>factorial(</item>
+		<item>realpart(</item>
+		<item>imagpart(</item>
+		<item>linspace(</item>
+		<item>length(</item>
+		<item>sum(</item>
+		<item>plot(</item>
+		<item>syms</item>
+		<item>inv(</item>
+		<item>linsolve(</item>
+		<item>taylor</item>
+		<item>integrate(</item>
+		<item>diff(</item>
+		<item>for (</item>
+		<item>printf(</item>
+		<item>hold </item>
+		<item>poly(</item>
+		<item>polyfit(</item>
+		<item>polyval(</item>
+		<item>function</item>
+		<item>path</item>
+		<item>end</item>
+		<item>if</item>
+		<item>else</item>
+		<item>while</item>
+		<item>break</item>
+		<item>rand(</item>
+		<item>eig(</item>
+		<item>lu(</item>
+		<item>coeff(</item>
+		<item>allroots(</item>
+		<item>solve(</item>
+		<item>sqfr(</item>
+		<item>divide(</item>
+		<item>gcd(</item>
+		<item>subst(</item>
+		<item>algsys(</item>
+		<item>quad</item>
+		<item>romberg(</item>
+		<item>ode(</item>
+		<item>choose(</item>
+		<item>who</item>
+		<item>conj(</item>
+		<item>abs(</item>
+		<item>angle(</item>
+		<item>cfs(</item>
+		<item>asinh(</item>
+		<item>acosh(</item>
+		<item>asech(</item>
+		<item>acsch(</item>
+		<item>atan2(</item>
+		<item>gamma(</item>
+		<item>zeros(</item>
+		<item>ones(</item>
+		<item>eye(</item>
+		<item>invhilb(</item>
+		<item>size(</item>
+		<item>find(</item>
+		<item>max(</item>
+		<item>min(</item>
+		<item>diag(</item>
+		<item>pinv(</item>
+		<item>trigexp(</item>
+		<item>lsum(</item>
+		<item>fzero(</item>
+		<item>loglog(</item>
+		<item>linlog(</item>
+		<item>loglin(</item>
+	</array>
+	<array	name="inputs">
+		<item>octave mode</item>
+		<item>maxima mode</item>
+	</array>
+</resources>

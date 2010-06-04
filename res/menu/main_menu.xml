@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/menu_file" android:title="File"><menu><item android:id="@+id/menu_clear" android:title="@string/menu_clear"></item><item android:id="@+id/menu_load" android:title="Load"></item>
+<item android:title="Import SD card" android:id="@+id/menu_import"></item>
+<item android:title="Save history" android:id="@+id/menu_save"></item>
+<item android:title="Export history" android:id="@+id/menu_export"></item>
+<item android:title="Export output" android:id="@+id/menu_output"></item>
+</menu>
+</item><item android:id="@+id/menu_plot" android:title="@string/menu_plot"></item><item android:id="@+id/menu_interrupt" android:title="@string/menu_interrupt" android:alphabeticShortcut="c"></item>
+
+<item android:id="@+id/menu_mode" android:title="@string/menu_mode">
+</item>
+
+
+<item android:id="@+id/menu_help" android:title="Online Help"></item><item android:id="@+id/menu_quit" android:title="@string/menu_quit"></item>
+
+</menu>
