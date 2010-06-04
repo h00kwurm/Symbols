@@ -1,0 +1,16 @@
+Symbols is an interactive numerical and symbolic computational environment for Android. In fairness, it must also be noted that this is, I assume, terminologically a "fork" of the Jasymca for Android project. Using Jasmyca as its backbone, it provides a fair bit of the current implementations of Octave, Maxima, and Matlab mathematical functions. It also extends Jasymca in that some extended computational sets have been included. Of course, there is more to come.
+
+Licensing Info:
+
+Symbols is licensed with the GNU General Public License, which as of the creation of this README, is at version 3.
+	Copyright (C) 2009 - Aditya Natraj - adityajones@gmail.com
+
+
+Jasymca for Android, which provided the inspiration to make this a decent project, is distributed under the GNU General Public License v2.
+	Copyright (C) 2009 - Wim van Velthoven
+
+
+Jasymca, which honorably provides the foundation, is also distributed under the GNU General Public License but rather v2, which came with the package appropriately.
+	Copyright (C) 2006, 2009 - Helmut Dersch  der@hs-furtwangen.de
+	
+See the file LICENSE for the GNU GPL v3.
